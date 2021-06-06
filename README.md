@@ -1,6 +1,6 @@
-# PythonAPIChallenge Project
+# PythonAPIChallenge Project-What's the Weather Like?
 
-Edris Gemtessa  UNIVERSITY OF MINNESOTA
+![image](https://user-images.githubusercontent.com/76269709/120912180-c0407600-c652-11eb-8ae4-d060e7d286cf.png)
 
 
 
